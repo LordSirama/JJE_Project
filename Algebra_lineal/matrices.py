@@ -1,5 +1,6 @@
-from Modulo1 import dot
 
+dot = lambda x1, x2: sum(  #Producto escalar o producto punto entre dos vectores
+  list(map(lambda x, y: float(x) * float(y), x1, x2)))
 
 def mostrar_matriz(A):
   try:
@@ -9,10 +10,6 @@ def mostrar_matriz(A):
 
   except:
     mostrar_matriz([A])
-
-
-#
-
 
 def sumar(A, B):
   pass
