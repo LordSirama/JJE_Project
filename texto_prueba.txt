@@ -1,6 +1,14 @@
 Prueba del commit 2:03 pm 7/05/2023
+
 print("jhon")
 Alejandra
 Jhon 1232
 alejandra 123
 hola mundo
+
+print("que caro es la programacion")
+commit de Jeiner
+Hola soy jeiner
+Hola como están
+Hola soy jeiner
+
