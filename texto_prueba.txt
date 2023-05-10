@@ -6,3 +6,9 @@ Hola soy jeiner
 Hola como están
 Hola soy jeiner
 Hol
+print("jhon")
+Alejandra
+Jhon 1232
+alejandra 123
+hola mundo
+Hola jeiner
